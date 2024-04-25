@@ -9,9 +9,9 @@ Currently, two official plugins are available:
 
 <h2>Commands to Run this Project</h1>
 <ul>
-  <li><h4>'''
+  <li><h4>
 npm install
-'''</h4></li>
+</h4></li>
   <li><h4>npm run dev</h4></li>
 </ul>
 
